@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="onboarding0_text">Una menuda criatura habitaba el mundo, como cualquier otra...</string>
+    <string name="onboarding1_text">Aunque, en lo más profundo de su ser, sentia una inquietud oscura, como un secreto olvidado que buscaba emerger.</string>
+    <string name="onboarding2_text">Algo dentro de ella cambiaba, la llamada de su verdadera esencia...</string>
+    <string name="home_text">El mundo estaba a punto de conocer su nueva versión.</string>
+
+</resources>
